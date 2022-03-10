@@ -1,1 +1,1 @@
-These are executable C files
+0-processor is a script that runs a C file through the preprocessor and save the result into another file
