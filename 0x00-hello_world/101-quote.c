@@ -3,7 +3,9 @@
 #include <unistd.h>
 /**
  * main - Entry point
- *
+ * 
+ * Description: prints Dors's quote
+ *
  * Return: Always 1 (Success)
  */
 int main(void)
