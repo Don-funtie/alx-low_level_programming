@@ -1,1 +1,1 @@
-# alx-low_level_programming
+These scripts are exercises on C programming
