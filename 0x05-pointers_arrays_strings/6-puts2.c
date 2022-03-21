@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main"
 
  /**
  * puts2 - main function.
