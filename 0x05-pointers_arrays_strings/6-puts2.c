@@ -1,12 +1,12 @@
-#include "holberton.h"
+#include "main.h"
 
-/**
+ /**
  * puts2 - main function.
  * @str: Pointer, the string to print.
  *
  * Description: This function prints every other character of a string
  * (divisible by two)
- * Return: none.
+ * Return: no return.
  */
 
 void puts2(char *str)
