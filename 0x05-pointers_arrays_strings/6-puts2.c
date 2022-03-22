@@ -1,11 +1,11 @@
 #include "holberton.h"
 
- /**
- * puts2 - main function.
- * @str: Pointer, the string to print.
+/**
+ * rev_string - main function.
+ * @s: Pointer, the string to print.
  *
- * Description: This function prints every other character of a string
- * (divisible by two)
+ * Description: This function reverses a string.
+ *
  * Return: none.
  */
 
